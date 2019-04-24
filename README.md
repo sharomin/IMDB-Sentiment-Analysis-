@@ -1,0 +1,2 @@
+# IMDB-Sentiment-Analysis-
+In this project, I have developed models to predict the sentiment of IMBD reviews. IMDB is a popular website and database of movie information and reviews (https://www.imdb.com/). The goal is to classify IMBD reviews as positive or negative based on the language they contain. This project was done for competing with other groups in www.kaggle.com to achieve the best accuracy in a competition.
